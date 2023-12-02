@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.bg-page {
+  background-image: url(./images/1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding: 3rem;
+}
